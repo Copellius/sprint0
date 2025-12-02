@@ -1,4 +1,4 @@
 node_modules/
 dist/
-date-and-time/
-date-and-time-npm-package/
+**/node_modules/
+**/dist/
